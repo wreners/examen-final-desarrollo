@@ -1,0 +1,16 @@
+{
+  "name": "examen-final",
+  "version": "1.0.0",
+  "description": "serie ii de examen final de desarrollo web",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wrener Robles",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "hbs": "^4.2.0"
+  }
+}
